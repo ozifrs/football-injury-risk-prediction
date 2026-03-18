@@ -1,0 +1,17 @@
+# Core data science libraries
+numpy==2.4.2
+pandas==3.0.1
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# HTTP requests (used in SkillCorner tutorial notebooks)
+requests
+
+# Football / sports analytics libraries
+mplsoccer
+skillcorner==3.0.0
+skillcornerviz==1.1.2
+kloppy
+
+# Notebook runtime
+ipykernel==7.2.0
